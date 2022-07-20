@@ -24,3 +24,16 @@ Some structures may still generate, like Wichery circles;
 you're not allowed to use them.
 In the future,
 this paragraph will be updated with instructions on how to disable them.
+
+
+Prior Work
+----------
+
+- [Skyblock Ruleset by Order#0001](<https://docs.google.com/document/d/1Ajmpajbpw8H9rOpiPgX6AcUOcpdIfArwb-aoVrKly4I>);
+    an earlier GTNH skyblock concept.
+    The main differences is that we don't change game rules
+    (most notably, we keep `gamerule doMobSpawning true`)
+    and we start with no items.
+
+- [Stone Age Thaum by Aura#0696](https://docs.google.com/document/d/1VF9HJPsaJasY_V_3OeJOX5RIRzGx5Xjfr-iBzzjfZGU);
+    this documents outlines how to get started with Thaumcraft in Stone Age.
