@@ -159,3 +159,21 @@ Then we progress as follows:
     and crops gives us ink sacs;
     thus we can craft scribing tools.
     This allows us to get started with Thaumcraft.
+
+
+Possibly Unsurmountable Obstacles
+=================================
+
+Although the profane wand gives us a head start in Thaumcraft without greatwood and silverwood,
+we eventually will want to craft higher-tier wands,
+and there are other things that require them.
+Unfortunately I don't know how to get them in this context.
+
+Several things beyond MV needs lenses,
+including HV circuits and Thaumcraft's runic matrix.
+Unfortunately,
+we have no access to flawless or exquisite gems
+(as the implosion compressor is gated behind HV circuits),
+so the only way of getting e.g. green sapphire lenses
+is by using an MV lathe with green sapphire plates.
+But the MV lathe itself requires a flawless diamond.
