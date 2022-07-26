@@ -9,6 +9,8 @@ and try to reconstruct as much as possible from GTNH.
 
 I don't know much about GTNH itself,
 so this document will evolve as I learn more about the modpack.
+In particular,
+it is lacking bees, Botania and a good chunk of Thaumcraft.
 
 
 Rules
@@ -24,6 +26,16 @@ Some structures may still generate, like Wichery circles;
 you're not allowed to use them.
 In the future,
 this paragraph will be updated with instructions on how to disable them.
+
+You may cheat in the following items:
+- One greatwood sapling and one silverwood sapling after you get a wand capable of storing 50 vis;
+- A single flawless diamond after you build your first MV machine casing;
+- A single lava bucket once you get your first stack of steel ingots.
+    - Alternatively, for maximum grind, replace the lava bucket with 26 vacuum tubes.
+
+The reason is because I don't know how to get these items without cheating them in.
+[This is discussed below](#possibly-unsurmountable-obstacles).
+
 
 
 Prior Work
