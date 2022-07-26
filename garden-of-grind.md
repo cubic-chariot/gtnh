@@ -162,10 +162,75 @@ Then we progress as follows:
 Possibly Unsurmountable Obstacles
 =================================
 
+Greatwood and Silverwood
+------------------------
+
 Although the profane wand gives us a head start in Thaumcraft without greatwood and silverwood,
 we eventually will want to craft higher-tier wands,
 and there are other things that require them.
-Unfortunately I don't know how to get them in this context.
+Unfortunately I don't know how to get them in this context;
+besides worldgen and the questbook,
+I think that all methods of obtaining these saplings
+require them to begin with.
+
+Lava/vacuum tubes
+-----------------
+
+Getting into LV needs circuits,
+which require vacuum tubes,
+which require glass tubes,
+which require a ball mold,
+which is made in the smeltery,
+which needs lava to function.
+
+The smeltery also theoretically runs on Blazing Pyrotheum,
+but making pyrotheum requires an MV mixer
+and transforming it to blazing pyrotheum needs an HV fluid extractor.
+
+The wand focus Liquefaction from Thaumic Horizons
+can transform cobblestone into stone into lava,
+but crafting it requires infusion and a ruby lens.
+Infusion requires an MV precision laser engraver,
+and ruby lens needs either an MV lathe,
+or an LV lathe and an exquisite ruby.
+
+If we allowed ourselves to go to the Nether,
+we could grab our lava there.
+To get the obsidian needed for the portal,
+we could use Thaumcraft:
+at 110 warp,
+obsidian will sometimes be spawned in the same block as the player's head,
+and this obsidian can be harvested using a thaumium pickaxe.
+
+`Bigfluf#3586` pointed out that Forestry can centrifuge simmering combs into phosphor,
+and squeeze phosphor into lava.
+These machines do not need circuits to be built,
+only cupronickel plates;
+thus we could produce lava with bees
+and a single cupronickel nugget.
+(The nugget may be duplicated with Thaumcraft,
+and the beekeeping villager trades 24 logs for an apiary.)
+
+Alternatively,
+if we had 26 vacuum tubes to begin with,
+we could get more from scrap:
+crafting a recycler,
+a packager,
+a 3x3 schematic,
+and an assembler (to make the 3x3 pattern)
+gives us scrapboxes,
+which can be opened manually for a 1.12% chance of getting vacuum tubes.
+The four components above require 13 LV circuits,
+so 26 vacuum tubes is enough to produce more.
+(Placing redstone in the battery slot of GT machines
+generate several hundred EU per dust;
+it is a small amount, but enough to get more tubes to actually craft a steam turbine.
+Diamond also works,
+and other items might work too, but I only know of these.)
+
+
+Flawless Diamond
+----------------
 
 Several things beyond MV needs lenses,
 including HV circuits and Thaumcraft's runic matrix.
