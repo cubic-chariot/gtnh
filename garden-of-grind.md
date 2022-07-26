@@ -83,10 +83,8 @@ Then we progress as follows:
 - Go back to your mob farm and wait till a drowning creeper appears.
     Let it explode.
     This generates water and some cobblestone.
-    Unfortunately,
-    you probably don't have a pickaxe yet,
-    and GTNH disables most non-Tinker's Construct pickaxes;
-    therefore you must "mine" that cobblestone with creepers.
+    GTNH disables most non-Tinker's Construct pickaxes,
+    but you can use a Gregtech flint pickaxe to mine it.
     With the flint you saved from before,
     you can craft a furnace.
     This gives us stone and thus mortars.
