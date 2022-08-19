@@ -31,7 +31,7 @@ You may cheat in the following items:
 - One greatwood sapling and one silverwood sapling after you get a wand capable of storing 50 vis;
 - A single flawless diamond after you build your first MV machine casing;
 - A single lava bucket once you get your first stack of steel ingots.
-    - Alternatively, for maximum grind, replace the lava bucket with 26 vacuum tubes.
+    - Alternatively, for maximum grind, replace the lava bucket with 22 vacuum tubes.
 
 The reason is because I don't know how to get these items without cheating them in.
 [This is discussed below](#possibly-unsurmountable-obstacles).
@@ -224,21 +224,20 @@ and a single cupronickel nugget.
 and the beekeeping villager trades 24 logs for an apiary.)
 
 Alternatively,
-if we had 26 vacuum tubes to begin with,
-we could get more from scrap:
-crafting a recycler,
-a packager,
-a 3x3 schematic,
-and an assembler (to make the 3x3 pattern)
-gives us scrapboxes,
+if we had 22 vacuum tubes to begin with,
+we could get more from scrap.
+The trollplant is a tier 6 IC2 crop that sometimes drop scraps.
+The 22 vacuum tubes gives us 11 LV circuits,
+so we can craft a packager (2 circuits for itself + 1 circuit for the robot arm),
+an assembler (2 circuits + 2 robot arms),
+and a 3x3 schematic (4 circuits, made in the assembler);
+the packager and the schematic can then compress the scraps into scrapboxes,
 which can be opened manually for a 1.12% chance of getting vacuum tubes.
-The four components above require 13 LV circuits,
-so 26 vacuum tubes is enough to produce more.
-(Placing redstone in the battery slot of GT machines
-generate several hundred EU per dust;
-it is a small amount, but enough to get more tubes to actually craft a steam turbine.
-Diamond also works,
-and other items might work too, but I only know of these.)
+Placing redstone in the battery slot of GT machines
+generate several hundred EU per dust,
+so we don't need a turbine to get started.
+The next steps are making a recycler (to get scrap faster)
+and a steam turbine.
 
 
 Flawless Diamond
