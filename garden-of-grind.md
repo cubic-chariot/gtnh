@@ -153,6 +153,7 @@ Then we progress as follows:
     XP buckets gives sulfur.
     Since we have a steam alloy smelter,
     we get access to rubber.
+    So we can now craft LV motors.
 
 - You probably got some weeds during crop breeding.
     If they are left to mature,
@@ -169,6 +170,38 @@ Then we progress as follows:
     and crops gives us ink sacs;
     thus we can craft scribing tools.
     This allows us to get started with Thaumcraft.
+
+- Make a Lazullia, from Thaumic Bases.
+    This gives us lapis lazuli,
+    which can be used to make the clockwork engine from Forestry.
+    We can now power Forestry machines.
+
+- Craft obsidian dust with XP buckets.
+    Make obsidian glass with it in an alloy smelter,
+    which can be used to craft Buildcraft Tanks.
+
+- Copper from oreberries and nickel from XP buckets
+    can be alloyed into cupronickel in an alloy smelter.
+    Many machines from Forestry can be made without circuits,
+    needing only cupronickel and lapis lazuli plates,
+    BC tanks, electric motors and pistons, and small steel gears.
+    We can make bottlers, centrifuges, fermenters, moisteners, and squeezers.
+    (The carpenter needs robot arms, which needs circuits.)
+
+- Apiarist villagers sell random combs for two wheat.
+    Get one that sells simmering combs,
+    centrifuge it to get phosphor,
+    which can be squeezed (together with dirt) into lava.
+    (Thanks `Bigfluf#3586` for pointing this out!)
+
+- Make a vanilla cobble generator.
+    Forge hammer the cobble to get gravel and sand.
+    Sand and rotten flesh from your mob farm gives plenty of dirt,
+    which can be made into plenty of mud and extracted to clay.
+    Make a Tinker's Construct Smeltery and power it with the lava you got in the last step.
+
+- Now make a ball mold, glass tubes, vacuum tubes, and LV circuits.
+    Congratulations, you've reached the LV age!
 
 
 Possibly Unsurmountable Obstacles
