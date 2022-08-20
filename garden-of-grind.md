@@ -218,10 +218,10 @@ and this obsidian can be harvested using a thaumium pickaxe.
 and squeeze phosphor into lava.
 These machines do not need circuits to be built,
 only cupronickel plates;
-thus we could produce lava with bees
-and a single cupronickel nugget.
-(The nugget may be duplicated with Thaumcraft,
-and the beekeeping villager trades 24 logs for an apiary.)
+cupronickel can be made in an alloy smelter from oreberry copper and XP bucket nickel.
+They can be powered with a clockwork engine from Forestry itself.
+Lazullia from Thaumic Bases gives us the lapis lazuli needed for the clockwork engine.
+Therefore we could get our initial lava from bees.
 
 Alternatively,
 if we had 22 vacuum tubes to begin with,
