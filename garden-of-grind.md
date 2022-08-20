@@ -29,9 +29,7 @@ this paragraph will be updated with instructions on how to disable them.
 
 You may cheat in the following items:
 - One greatwood sapling and one silverwood sapling after you get a wand capable of storing 50 vis;
-- A single flawless diamond after you build your first MV machine casing;
-- A single lava bucket once you get your first stack of steel ingots.
-    - Alternatively, for maximum grind, replace the lava bucket with 22 vacuum tubes.
+- A single flawless diamond after you build your first MV machine casing.
 
 The reason is because I don't know how to get these items without cheating them in.
 [This is discussed below](#possibly-unsurmountable-obstacles).
@@ -217,61 +215,6 @@ Unfortunately I don't know how to get them in this context;
 besides worldgen and the questbook,
 I think that all methods of obtaining these saplings
 require them to begin with.
-
-Lava/vacuum tubes
------------------
-
-Getting into LV needs circuits,
-which require vacuum tubes,
-which require glass tubes,
-which require a ball mold,
-which is made in the smeltery,
-which needs lava to function.
-
-The smeltery also theoretically runs on Blazing Pyrotheum,
-but making pyrotheum requires an MV mixer
-and transforming it to blazing pyrotheum needs an HV fluid extractor.
-
-The wand focus Liquefaction from Thaumic Horizons
-can transform cobblestone into stone into lava,
-but crafting it requires infusion and a ruby lens.
-Infusion requires an MV precision laser engraver,
-and ruby lens needs either an MV lathe,
-or an LV lathe and an exquisite ruby.
-
-If we allowed ourselves to go to the Nether,
-we could grab our lava there.
-To get the obsidian needed for the portal,
-we could use Thaumcraft:
-at 110 warp,
-obsidian will sometimes be spawned in the same block as the player's head,
-and this obsidian can be harvested using a thaumium pickaxe.
-
-`Bigfluf#3586` pointed out that Forestry can centrifuge simmering combs into phosphor,
-and squeeze phosphor into lava.
-These machines do not need circuits to be built,
-only cupronickel plates;
-cupronickel can be made in an alloy smelter from oreberry copper and XP bucket nickel.
-They can be powered with a clockwork engine from Forestry itself.
-Lazullia from Thaumic Bases gives us the lapis lazuli needed for the clockwork engine.
-Therefore we could get our initial lava from bees.
-
-Alternatively,
-if we had 22 vacuum tubes to begin with,
-we could get more from scrap.
-The trollplant is a tier 6 IC2 crop that sometimes drop scraps.
-The 22 vacuum tubes gives us 11 LV circuits,
-so we can craft a packager (2 circuits for itself + 1 circuit for the robot arm),
-an assembler (2 circuits + 2 robot arms),
-and a 3x3 schematic (4 circuits, made in the assembler);
-the packager and the schematic can then compress the scraps into scrapboxes,
-which can be opened manually for a 1.12% chance of getting vacuum tubes.
-Placing redstone in the battery slot of GT machines
-generate several hundred EU per dust,
-so we don't need a turbine to get started.
-The next steps are making a recycler (to get scrap faster)
-and a steam turbine.
-
 
 Flawless Diamond
 ----------------
