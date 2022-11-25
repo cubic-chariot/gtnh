@@ -69,6 +69,10 @@ This layout can be tiled horizontally and vertically;
 only two empty columns may exist,
 but there must be an empty row between every two rows of farmland.
 
+A partially constructed farm following this layout can be seen below.
+
+[Partially constructed farm](oreberry-farm-layout.png)
+
 ### Harvest procedure
 
 It is possible to minimize backtracking by interweaving harvest and gathering phases,
