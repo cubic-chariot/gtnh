@@ -40,12 +40,23 @@ Change the following configs in `Thaumcraft.cfg`:
 ```
 
 You may cheat in the following items:
-- One greatwood sapling and one silverwood sapling after you get a wand capable of storing 50 vis;
+- One greatwood sapling and one silverwood sapling after crafting a runic matrix.
 - A single flawless diamond after you build your first MV machine casing.
 
 The reason is because I don't know how to get these items without cheating them in.
 [This is discussed below](#possibly-unsurmountable-obstacles).
 
+
+### Alternatives
+
+- Make the superflat preset be `2;0;68;`.
+    This changes the biome to Grasslands,
+    which is much better for IC2 crops than plains.
+
+- Use the questbook instead of cheating in items.
+    This gives access to the magical saplings,
+    diamond ores,
+    and some bees.
 
 
 Prior Work
