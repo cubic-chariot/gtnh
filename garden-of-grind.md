@@ -1,7 +1,7 @@
 GTNH: Garden of Grind
 =====================
 
-This document outlines a theoretical playthrough of the modpack
+This document outlines a playthrough of the modpack
 [GregTech: New Horizons](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack),
 in a skyblock-like setting.
 We start from absolutely nothing,
@@ -59,8 +59,12 @@ The reason is because I don't know how to get these items without cheating them 
     and some bees.
 
 
-Prior Work
-----------
+External Links
+--------------
+
+- [Garden of Grind by Order#0001](<https://docs.google.com/document/d/1g4EcDbfhZtiyqIE2WPkSiKTwP4MbNpiFT_o_agkPGgk/edit>);
+    a detailed description of our Garden of Grind run.
+    We used the questbook and grasslands alternatives.
 
 - [Skyblock Ruleset by Order#0001](<https://docs.google.com/document/d/1Ajmpajbpw8H9rOpiPgX6AcUOcpdIfArwb-aoVrKly4I>);
     an earlier GTNH skyblock concept.
