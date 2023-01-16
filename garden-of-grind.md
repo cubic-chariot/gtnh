@@ -22,10 +22,22 @@ This preset has Plains as the biome,
 and no blocks at all.
 You may not use the questbook rewards or travel to other dimensions.
 
-Some structures may still generate, like Wichery circles;
-you're not allowed to use them.
-In the future,
-this paragraph will be updated with instructions on how to disable them.
+Change the following configs in `witchery.cfg`:
+```
+    B:GenerateApothecaries=false
+    B:GenerateBookShops=false
+    B:GenerateCovens=false
+    B:GenerateHobgoblinHuts=false
+    B:GenerateShacks=false
+    B:GenerateWickerMen=false
+    B:GenerateWitchHuts=false
+```
+
+Change the following configs in `Thaumcraft.cfg`:
+```
+    B:generate_aura_nodes=false
+    B:generate_structures=false
+```
 
 You may cheat in the following items:
 - One greatwood sapling and one silverwood sapling after you get a wand capable of storing 50 vis;
