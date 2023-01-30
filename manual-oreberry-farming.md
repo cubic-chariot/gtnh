@@ -71,7 +71,7 @@ but there must be an empty row between every two rows of farmland.
 
 A partially constructed farm following this layout can be seen below.
 
-[Partially constructed farm](oreberry-farm-layout.png)
+![Partially constructed farm](oreberry-farm-layout.png)
 
 ### Harvest procedure
 
