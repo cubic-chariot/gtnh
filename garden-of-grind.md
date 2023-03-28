@@ -49,15 +49,21 @@ The reason is because I don't know how to get these items without cheating them 
 
 ### Alternatives
 
-- Make the superflat preset be `2;0;68;`.
-    This changes the biome to Grasslands,
-    which is much better for IC2 crops than plains.
-
 - Use the questbook instead of cheating in items.
     This gives access to the magical saplings,
     diamond ores,
     and some bees.
 
+### Sanity-preserving concessions
+
+- Make the superflat preset be `2;0;68;`.
+    This changes the biome to Grasslands,
+    which is much better for IC2 crops than plains.
+
+- Cheat in one acacia sapling once you convert your first villager.
+
+- Use shaders to cheese hardcore darkness,
+    or configure `HardcoreDarkness.cfg > S:"Dimension Blacklist"` to be `0`.
 
 External Links
 --------------
