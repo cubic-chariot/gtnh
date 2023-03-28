@@ -4,23 +4,24 @@ Getting Started
 The first thing that happens when you join the world described above is:
 you fall in the void and die.
 This creates an OpenBlocks grave with a block of dirt underneath.
-When you respawn,
-you will be on top of that block of dirt.
-Throw yourself on the void again,
-but a bit to the left.
-This creates yet another block of dirt.
-Repeat a few hundred times to gather building blocks.
+Due to spawn randomization,
+when you respawn,
+you will likely fall to the void and die again.
+And again, and again, and again.
+Once you respawn on top of a grave,
+throw yourself in the void a few hundred times more to gather building blocks.
 Then we progress as follows:
 
 - Build a rudimentary mobfarm.
-    Kill enough infernal mobs until one of them drops a golden apple.
+    Kill enough infernal mobs until one of them drops a golden apple,
+    and open enough treasure bags from Thaumcraft until you get a splash potion of weakness.
 
-- Get a villager. Here's how:
-    Get a witch and a zombie villager to spawn close to one another,
-    anger the witch so that she throws a weakness potion at you,
-    be close enough to the zombie so that it gets hit too,
-    and feed it the golden apple;
-    a few minutes later, you have a villager!
+- Find a zombie villager in your mob farm and cure it in vanilla way
+    (throw a splash potion of weakness and feed it a golden apple).
+    - Alternatively, you can skip the splash potion of weakness
+        by using a witch, or an infernal mob with the attribute "alchemist".
+        These mobs throw weakness potions at you,
+        and these may also hit mobs behind you.
 
 - Convert a few more villagers.
     Botania makes them shed emeralds,
@@ -31,21 +32,21 @@ Then we progress as follows:
     This gives access to wood.
 
 - The crafting table recipe was unfortunately Gregified.
-    Go back to your mob farm and wait till a Gravel Creeper spawns;
-    it explodes in a bunch of gravel,
-    which can be crafted into flint,
-    which gives us crafting tables.
-    (You can also make chests now,
-    but flint is probably too precious for now,
-    so use the droppers/dispensers dropped by infernal mobs as makeshift storage.)
+    Brutish skeletons and zombies drop flint when killed,
+    giving access to crafting tables and chests.
+    Ninja skeletons drop paper,
+    so we can craft Tinker's Construct's Blank Patterns,
+    thus giving access to the part builder, stencil table, and tool station.
+    The part builder can be used to make tool parts out of bone,
+    which also generates bone meal as a byproduct,
+    without needing a macerator.
 
 - Go back to your mob farm and wait till a drowning creeper appears.
     Let it explode.
     This generates water and some cobblestone.
-    GTNH disables most non-Tinker's Construct pickaxes,
-    but you can use a Gregtech flint pickaxe to mine it.
-    With the flint you saved from before,
-    you can craft a furnace.
+    Your TiCon pickaxe can mine those,
+    or you can use a GT flint pickaxe.
+    Craft a furnace.
     This gives us stone and thus mortars.
 
 - Zombies drop iron ingots, which can be used to make buckets and a full set of Gregtech tools.
@@ -56,15 +57,7 @@ Then we progress as follows:
     Infernal mobs also rarely drop diamonds,
     so you can make a plant lens (buy glass from a librarian villager).
 
-- The mortar can be used to grind wood blocks to woodpulp,
-    which gives us papers and TiCon's Blank Pattern.
-    With some string you can craft the basic TiCon crafting stations
-    (stencil table, part builder, tool station),
-    giving access to Tinker's tools with flint heads!
-    Also make a brick wooden form.
-
-- The Tinker's Construct oreberries you bred a few steps before
-    don't need the corresponding block underneath to drop their resource.
+- Oreberries don't need the corresponding block underneath to drop their resource.
     Use the mortar to get tiny dusts
     and smelt them in furnace to get ingots.
     Mixing tin and copper in a crafting table gives us access to bronze.
@@ -148,4 +141,40 @@ Then we progress as follows:
     Make a Tinker's Construct Smeltery and power it with the lava you got in the last step.
 
 - Now make a ball mold, glass tubes, vacuum tubes, and LV circuits.
+    (Red alloy cables can be made in an alloy smelter with rubber and red alloy wires.)
     Congratulations, you've reached the LV age!
+
+
+Additional and Alternative Strategies
+-------------------------------------
+
+- Draconic Evolution's "Place Item in world" feature
+    (default keybind: P)
+    creates tile entities with a collision box of 0.5x0.1x0.5
+    and the same blast resistance as obsidian.
+    Those are useful to protect against creeper explosions
+    and also as makeshift slabs,
+    to prevent mob spawning in the absence of torches.
+
+- Infernal mobs rarely drop gold blocks,
+    which can be used to craft Extra Utilities' golden spikes.
+    This make it possible to farm mobs somewhat automatically,
+    which is an easier way of getting the 222 iron ingots required for the Railcraft tank
+    than oreberries.
+    Only player kills (and things that simulate player kills)
+    can drop iron ingots,
+    so you need something like this in order to get the ingots.
+
+- Golden spikes also give XP,
+    which speeds up XP bucket crafting before obtaining a large field of essence berries.
+
+- Hoeing grass gives cotton seeds,
+    which gives access to the Extra Utilities' paintbrush,
+    which can be used
+    (together with the bone meal from the part builder)
+    to craft white colored oak wood planks.
+    These planks are fire-proof and have higher blast resistance than cobblestone,
+    making it a good building material.
+
+- Bookshelves gives access to Forestry Worktables,
+    which significantly speed up the microcrafting needed for LV components.
