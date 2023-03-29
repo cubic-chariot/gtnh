@@ -88,6 +88,10 @@ The Route
 - [Getting started](gog-getting-started.md)
     documents from the very beginning till LV.
 
+- [Between LV and MV](gog-lv-mv.md)
+    we establish several important resource-gathering methods
+    and hit the flawless diamond roadblock.
+
 
 Possibly Unsurmountable Obstacles
 =================================
