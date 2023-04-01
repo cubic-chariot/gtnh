@@ -91,6 +91,9 @@ The Route
 - [Between LV and MV](gog-lv-mv.md)
     we establish several important resource-gathering methods
     and hit the flawless diamond roadblock.
+    At this point,
+    you either cheat in a flawless diamond,
+    or get one by sifting diamond ores from the questbook.
 
 
 Possibly Unsurmountable Obstacles
@@ -106,15 +109,3 @@ Unfortunately I don't know how to get them in this context;
 besides worldgen and the questbook,
 I think that all methods of obtaining these saplings
 require them to begin with.
-
-Flawless Diamond
-----------------
-
-Several things beyond MV needs lenses,
-including HV circuits and Thaumcraft's runic matrix.
-Unfortunately,
-we have no access to flawless or exquisite gems
-(as the implosion compressor is gated behind HV circuits),
-so the only way of getting e.g. green sapphire lenses
-is by using an MV lathe with green sapphire plates.
-But the MV lathe itself requires a flawless diamond.

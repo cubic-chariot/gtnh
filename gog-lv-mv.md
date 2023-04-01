@@ -187,3 +187,58 @@ Additional and Alternative Strategies
     which give access to brewing machines and weed-ex.
 
 - Piston boots, copterpacks, and GT concrete can be crafted for faster movement.
+
+The Lens Obstacle
+=================
+
+This is the first and most important roadblock of the Skyblock journey:
+crafting the lenses necessary for progression.
+- Either terra or emerald lenses
+    are needed to make Ultra Low Power IC, which is needed for MV energy hatches.
+- Either ruby, ignis, or red garnet lenses
+    are needed for Integrated Logic Circuits, which is a component of HV circuits.
+- Green sapphire lenses are needed for Random Access Memory Chips,
+    which is a component of HV circuits.
+
+The inability of getting lenses
+is directly tied with the inability to get flawless and exquisite gems.
+
+- Plates can be lathed into lenses by an MV lathe.
+    However,
+    crafting the MV lathe itself needs a flawless diamond.
+- Exquisite gems can be lathed into lenses by an LV lathe.
+    However,
+    due to the absence of ores this option is not available for us.
+- Both the LV and HV lathes can be crafted using industrial diamonds,
+    which can be crafted at this stage.
+    However,
+    the HV lathe needs HV circuits to begin with.
+- Implosion compressors can upgrade gems to flawless and exquisite variants.
+    However, the implosion compressor also needs HV circuits.
+- An HV precision laser engraver can upgrade regular diamonds to flawless diamonds,
+    but again it requires HV circuits.
+- Other HV-tier circuits either needs cleanrooms (which needs HV circuits to begin with).
+
+Magic is probably useless here;
+not only we are severely limited by the lack of Thaumcraft infusion
+(which needs a ruby/ignis/red garnet lens),
+flawless and exquisite gems are a GT concept,
+so the only way a magic mod could help is by giving the ores directly.
+- Botania's orechid would be up to the task,
+    but it needs sunnarium
+
+The only crop which produces ores is the garnydinia,
+which rarely drops purified red/yellow garnet ore and purified garnet sand.
+It is also the only crop which produces exquisite gems
+(it drops exquisite red and yellow garnets).
+This would give access to Thaumcraft infusion, at least.
+However,
+garnydinias need either a red or a yellow garnet block to fully mature.
+Since scrapboxes only drop red/yellow garnet dust,
+we need an implosion compressor first.
+
+Diamond combs can be reacted with HCl to produce purified diamond ores.
+However villagers don't sell those,
+breeding diamond bees requires biome-changing technology,
+and even getting bees in the first place requires the questbook.
+The diamond bee also gates red garnet and ruby bees.
