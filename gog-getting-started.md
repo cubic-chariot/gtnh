@@ -178,3 +178,7 @@ Additional and Alternative Strategies
 
 - Bookshelves gives access to Forestry Worktables,
     which significantly speed up the microcrafting needed for LV components.
+
+- After unlocking steel,
+    GT++'s Steam Grinder becomes craftable,
+    and very useful to macerate all the oreberries.

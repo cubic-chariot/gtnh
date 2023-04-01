@@ -103,6 +103,62 @@ and LV circuits.
     and unpackagers,
     this enables the automation of creation and opening of scrap boxes.
 
+- The next step is crafting and powering an EBF.
+    Cupronickel coils can be made with alumino silicate wool,
+    which is made from either blue/green sapphire dust or ruby dust, and quartz or silicon dioxide.
+    The silicon dioxide is easy to get by centrifuging flint dust or glass dust,
+    or you may go for quartz dust from Evil Ores.
+    The blue/green sapphire or ruby is harder.
+    The IC2 crop Sapphirum gives sapphire and it is quite fast in this task;
+    however, it requires a full block of sapphire underneath it to mature,
+    and the only initial source of blue sapphires is scrapboxes.
+    So your best bet is probably getting ruby dust by centrifuging large quantities of redstone.
+    Its best source is Thaumic Bases' Redlons.
+    OpenBlocks' Block Breaker can automatically harvest the redstone blocks
+    (Project Red's block breaker gets stuck, due to the redstone power).
+
+- Aluminium oreberries will provide aluminium dust,
+    which can be compressed into Tinker's Construct's Raw Aluminium,
+    which can be smelted into GT aluminium ingots.
+    Redstone alloy needs coal dust;
+    you can get some from scrapboxes and by centrifuging fire charges,
+    but the best renewable source is probably withereeds.
+    - Withereeds needs coal blocks underneath them to mature.
+        Fire Creepers, Skeletons, and Zombies drop coal,
+        so mob farming is a slow way of getting some coal to kickstart a withereed field.
+        Unfortunately coal dust cannot be transformed into coal.
+
+- Gallium and arsenide can be obtained from XP buckets.
+    Sodium and chlorine (for the phenolic circuit board)
+    can come from either tearstalks or salty roots.
+    Melting glass in a smeltery, or fluid-extracting quartzite,
+    gives us diodes and thus MV circuits.
+
+- At this point,
+    most basic MV machine components
+    (motors, pumps, conveyors, pistons, robot arms, and emitters)
+    are available.
+    The only exception is the MV sensor,
+    which needs flawless emeralds.
+
+- Most MV machines are available now,
+    including MV generators and precision laser engravers.
+    The most notable exception are MV lathes,
+    which needs flawless diamonds,
+    and MV crop managers,
+    which needs flawless emeralds.
+
+- Kanthal coil blocks won't be craftable for a while,
+    so several materials will not be accessible until then
+    (titanium, tantalum, energetic alloy, vibrant alloy,
+    nichrome, solar grade silicon, galgadorian, energetic silver, vivid alloy).
+
+- Stainless steel dust is technically achievable.
+    Chrome can be mass produced from ruby from redstone,
+    but the only source of manganese at this point is
+    scrap -> red garnet dust -> spessartine dust -> manganese dust.
+    But actually smelting stainless steel is not.
+
 Additional and Alternative Strategies
 -------------------------------------
 
@@ -116,3 +172,18 @@ Additional and Alternative Strategies
     which gives item filters and item filter covers.
     These move one stack per tick,
     so with an empty blacklist these function as an IV conveyor.
+
+- [Project Red: Transportation](https://gtnh.miraheze.org/wiki/Project_Red_Transportation_-_MV_Storage_and_Autocrafting)
+    is unlocked as soon as you have aluminium ingots,
+    which helps immensely when fighting microcrafting.
+    - XP bucket autocrafting is a must.
+        If the crafting is performed on demand,
+        consider powering the auto crafting benches
+        (with e.g. Project Red: Expansion's solar panels)
+        to outpace PRT.
+
+- With aluminium from the EBF and blaze rods from blazereed,
+    you can craft breweries,
+    which give access to brewing machines and weed-ex.
+
+- Piston boots, copterpacks, and GT concrete can be crafted for faster movement.
