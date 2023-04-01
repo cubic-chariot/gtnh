@@ -39,13 +39,9 @@ Change the following configs in `Thaumcraft.cfg`:
     B:generate_structures=false
 ```
 
-You may cheat in the following items:
-- One greatwood sapling and one silverwood sapling after crafting a runic matrix.
-- A single flawless diamond after you build your first MV machine casing.
-
-The reason is because I don't know how to get these items without cheating them in.
-[This is discussed below](#possibly-unsurmountable-obstacles).
-
+You may cheat in a single flawless diamond after you build your first MV machine casing.
+The reason is because I don't know how to get one without cheating them in.
+[This is discussed here](gog-lv-mv.md#the-lens-obstacle).
 
 ### Alternatives
 
@@ -61,6 +57,11 @@ The reason is because I don't know how to get these items without cheating them 
     which is much better for IC2 crops than plains.
 
 - Cheat in one acacia sapling once you convert your first villager.
+    - Alternatively,
+        you can savescum the first trades of the first villager.
+        In Minecraft 1.8 and below,
+        zombie villagers don't have a profession,
+        which is rerolled once the zombie is cured.
 
 - Use shaders to cheese hardcore darkness,
     or configure `HardcoreDarkness.cfg > S:"Dimension Blacklist"` to be `0`.
@@ -85,6 +86,10 @@ External Links
 The Route
 =========
 
+The following pages outline the several steps of the run.
+Practicality is _not_ the focus of the outline below;
+for this, see e.g. [our run here](<https://docs.google.com/document/d/1g4EcDbfhZtiyqIE2WPkSiKTwP4MbNpiFT_o_agkPGgk/edit>).
+
 - [Getting started](gog-getting-started.md)
     documents from the very beginning till LV.
 
@@ -95,17 +100,3 @@ The Route
     you either cheat in a flawless diamond,
     or get one by sifting diamond ores from the questbook.
 
-
-Possibly Unsurmountable Obstacles
-=================================
-
-Greatwood and Silverwood
-------------------------
-
-Although the profane wand gives us a head start in Thaumcraft without greatwood and silverwood,
-we eventually will want to craft higher-tier wands,
-and there are other things that require them.
-Unfortunately I don't know how to get them in this context;
-besides worldgen and the questbook,
-I think that all methods of obtaining these saplings
-require them to begin with.
