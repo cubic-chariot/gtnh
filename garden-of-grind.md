@@ -100,3 +100,6 @@ for this, see e.g. [our run here](<https://docs.google.com/document/d/1g4EcDbfhZ
     you either cheat in a flawless diamond,
     or get one by sifting diamond ores from the questbook.
 
+- [Between late MV and EV](gog-mv-ev.md)
+    we have to do some tierskipping to get titanium,
+    and we get close to running out of resources that can be obtained from crops.
