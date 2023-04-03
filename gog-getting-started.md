@@ -83,11 +83,12 @@ Then we progress as follows:
     steam forge hammers (as the compressor gives us iron blocks).
     The Railcraft Water Tank is doable here as well.
 
-- Forge hammers can hammer the drowning creeper's cobblestone down to gravel and sand.
-    So we can make unfired coke oven bricks
+- Hammers down the drowning creeper's cobblestone down to gravel and sand.
+    With clay we can make unfired coke oven bricks
     and assemble coke ovens;
     this gives us access to charcoal and thus torches!
     With XP buckets this allows us to make and use a Bricked Blast Furnace.
+    - You can also use steam forge hammers to save on durability.
 
 - Crop breeding gives stickreed which gives raw rubber dust.
     XP buckets gives sulfur.
@@ -134,16 +135,16 @@ Then we progress as follows:
     which can be squeezed (together with dirt) into lava.
     (Thanks `Bigfluf#3586` for pointing this out!)
 
-- Make a vanilla cobble generator.
-    Forge hammer the cobble to get gravel and sand.
-    Sand and rotten flesh from your mob farm gives plenty of dirt,
-    which can be made into plenty of mud and extracted to clay.
-    Make a Tinker's Construct Smeltery and power it with the lava you got in the last step.
-
-- Now make a ball mold, glass tubes, vacuum tubes, and LV circuits.
+- Get more clay from XP buckets and make a Tinker's Construct Smeltery.
+    Now make a ball mold, glass tubes, vacuum tubes, and LV circuits.
     (Red alloy cables can be made in an alloy smelter with rubber and red alloy wires.)
     Congratulations, you've reached the LV age!
-
+    - Alternatively,
+        you can make a vanilla cobble generator,
+        hammer the cobble to gravel and sand,
+        crafting it with rotten flesh and leaves/saplings to make dirt,
+        mix with water to get mud,
+        and extract the clay from it.
 
 Additional and Alternative Strategies
 -------------------------------------
